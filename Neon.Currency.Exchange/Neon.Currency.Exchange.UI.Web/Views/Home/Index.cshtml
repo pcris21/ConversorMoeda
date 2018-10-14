@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using Neon.Currency.Exchange.UI.Web.ViewModels
+@model ExchangeViewModel
+
+<h3>Conversão do Dólar (USD)</h3>
+<br />
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                @Html.LabelFor(x => x.Currencies)
+                @Html.DropDownListFor(x => x.Currency, Model.Currencies, "Selecione", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Currencies)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Amount)
+                @Html.TextBoxFor(x => x.Amount, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.ValueExchange)
+                @Html.TextBoxFor(x => x.ValueExchange, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.CalculatedValue)
+                @Html.TextBoxFor(x => x.CalculatedValue, new { @class = "form-control" })
+            </div>
+        </div>
+
+    </div>
+    <input type="submit" id="consultar" name="consultar" value="Consultar" class="btn btn-success" />
+}
+

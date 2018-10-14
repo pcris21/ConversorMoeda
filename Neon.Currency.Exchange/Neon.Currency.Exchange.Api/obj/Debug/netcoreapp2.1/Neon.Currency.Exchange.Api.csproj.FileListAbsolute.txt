@@ -1,0 +1,17 @@
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.deps.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.runtimeconfig.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.runtimeconfig.dev.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.csprojAssemblyReference.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.csproj.CoreCompileInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.RazorAssemblyInfo.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.RazorAssemblyInfo.cs
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.AssemblyInfoInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.AssemblyInfo.cs
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.RazorTargetAssemblyInfo.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.csproj.CopyComplete
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Api\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Api.pdb

@@ -1,0 +1,17 @@
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.deps.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.runtimeconfig.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.runtimeconfig.dev.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.csprojAssemblyReference.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.csproj.CoreCompileInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.AssemblyInfoInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.AssemblyInfo.cs
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Test\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Test.csproj.CopyComplete

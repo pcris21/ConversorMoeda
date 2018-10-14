@@ -1,0 +1,62 @@
+{
+	"id": "31b51ded-5514-2024-c366-674aa81e89fb",
+	"name": "Neon",
+	"description": "",
+	"order": [
+		"496c78a7-21b0-379b-9622-6d17b721ef45",
+		"cbedaefc-9f31-0016-dc3e-c9a616f3863f"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1539270986958,
+	"owner": "4036647",
+	"public": false,
+	"requests": [
+		{
+			"id": "496c78a7-21b0-379b-9622-6d17b721ef45",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "31b51ded-5514-2024-c366-674aa81e89fb",
+			"data": null,
+			"dataMode": "params",
+			"name": "GetExchange",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1539271012917,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "cbedaefc-9f31-0016-dc3e-c9a616f3863f",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "31b51ded-5514-2024-c366-674aa81e89fb",
+			"data": null,
+			"dataMode": "params",
+			"name": "GetCurrencies",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1539368544656,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

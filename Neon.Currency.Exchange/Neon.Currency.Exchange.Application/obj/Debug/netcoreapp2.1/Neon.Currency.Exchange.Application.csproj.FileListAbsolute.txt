@@ -1,0 +1,12 @@
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.deps.json
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\bin\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.csproj.CoreCompileInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.AssemblyInfoInputs.cache
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.AssemblyInfo.cs
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.csproj.CopyComplete
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.dll
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.pdb
+D:\CONTEUDOS_TI\TesteNeon\Neon.Currency.Exchange\Neon.Currency.Exchange.Application\obj\Debug\netcoreapp2.1\Neon.Currency.Exchange.Application.csprojAssemblyReference.cache
